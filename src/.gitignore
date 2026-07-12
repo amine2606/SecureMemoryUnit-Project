@@ -1,0 +1,14 @@
+# Ignore VS Code-specific files
+.vscode/
+
+# C/C++ build artifacts
+*.o
+
+# Binaries (the main executable name(s))
+project
+
+# Large logs or trace files
+*.vcd
+
+# Ignore Python source files
+*.py

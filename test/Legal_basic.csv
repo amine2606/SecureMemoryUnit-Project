@@ -1,0 +1,5 @@
+Type,Address,Data,Fault,Fault-Bit
+R,0x1000,,,
+W,0x2000,42,,
+R,0x1000,,,
+W,0x3000,0xFF,,

@@ -1,0 +1,3 @@
+Type,Address,Data,Fault,Fault-Bit
+# Read uninitialized memory (valid per spec)
+R,0x9999,,,
